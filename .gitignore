@@ -1,0 +1,6 @@
+# secrets
+serviceAccountKey.json
+.env
+__pycache__/
+*.pyc
+top_stocks_*.xlsx

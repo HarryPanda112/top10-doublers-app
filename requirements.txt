@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+requests
+yfinance
+openpyxl
+python-dotenv
+firebase-admin
+textblob
